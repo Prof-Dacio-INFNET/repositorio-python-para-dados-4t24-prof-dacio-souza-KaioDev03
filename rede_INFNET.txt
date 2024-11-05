@@ -1,0 +1,30 @@
+João?25?Rio de Janeiro?RJ?{'Carlos', 'Ana', 'Marcos'}
+Ana?22?São Paulo?SP?{'João', 'Fernanda'}
+Carlos?30?Belo Horizonte?MG?{'João', 'Caio', 'Marcos'}
+Fernanda?28?Curitiba?PR?{'Ana'}
+Marcos?27?Porto Alegre?RS?{'Carlos', 'João'}
+Clara?26?Brasília?DF?{'Fernanda', 'Lívia'}
+Lívia?24?São Paulo?SP?{'Lucas', 'Clara', 'Marcos'}
+Lucas?31?Salvador?BA?{'Fernando', 'Lívia'}
+Fernando?29?Fortaleza?CE?{'Aline', 'Lucas'}
+Aline?23?Florianópolis?SC?{'Fernando', 'Caio', 'Clara'}
+Caio?27?Curitiba?PR?{'Aline', 'Clara'}
+Sofia?21?Campinas?SP?{'Rafaela', 'Fernanda'}
+Rafaela?22?Recife?PE?{'Sofia', 'Clara'}
+Mateus?32?Rio de Janeiro?RJ?{'Fernando', 'João', 'Caio'}
+Tiago?28?Brasília?DF?{'Aline', 'Mateus', 'Lívia'}
+Paulo?33??RN?{'Lucas', 'Fernanda', 'Tiago'}
+Juliana?25?São Paulo?SP?{'Sofia', 'Rafaela', 'Marcos'}
+Pedro?26?Belo Horizonte?MG?{'Aline', 'João'}
+Amanda?24?Porto Alegre?RS?{'Pedro', 'Caio', 'Lívia'}
+Bruno?30?Cuiabá?MT?{'Ana', 'Mateus', 'Marcos'}
+Carla?29?Salvador?BA?{'Fernando', 'Lucas', 'Tiago'}
+Gabriela?27?Fortaleza?CE?{'Aline', 'Rafaela', 'Carla'}
+?22?Rio de Janeiro?RJ?{'Clara', 'Bruno'}
+Thiago?31?São Paulo?SP?{'Lucas', 'João', 'Amanda', 'Clara'}
+Renata?23?Curitiba?PR?{'Fernando', 'Sofia', 'Clara'}
+Leonardo?29?Campinas?SP?{'Caio', 'Renata', 'Mateus'}
+Camila?28?Niterói?RJ?{'Bruno', 'Lucas', 'Caio', 'Juliana'}
+Felipe?27?Brasília?DF?{'Carla', 'Renata'}
+Mariana?30?Porto Alegre?RS?{'Felipe', 'Fernando', 'Lívia'}
+Daniel?25?Rio de Janeiro?RJ?{'Paulo', 'Amanda', 'Camila'}
